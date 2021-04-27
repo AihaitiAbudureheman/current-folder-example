@@ -1,2 +1,2 @@
 # current-folder-example
-Let's find out which one is current folder!
+When you are on this file, the current folder is: current-folder-example
